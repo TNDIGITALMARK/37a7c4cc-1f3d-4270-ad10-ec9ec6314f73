@@ -18,8 +18,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Elegant Flora Boutique",
-  description: "Beautiful AI-powered website creation platform",
+  title: "HandyPro - Home Service Marketplace",
+  description: "Connect with verified, trusted professionals for all your home repair and maintenance needs. Book instantly with transparent pricing.",
 };
 
 export default function RootLayout({
